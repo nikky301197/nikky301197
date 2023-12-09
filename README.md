@@ -1,4 +1,4 @@
-<img src="https://github.com/nikky301197/nikky301197/blob/add3924ef0a2ace9a2efb2991c9e5af79686b655/github-header-image%20(5).png" width="650" height="200"/>
+<img src="https://github.com/nikky301197/nikky301197/blob/add3924ef0a2ace9a2efb2991c9e5af79686b655/github-header-image%20(5).png" width="700" height="200"/>
 
 <h3 align="center">Welcome to my profile !</h3>
 <h4 align="center">Hi ! iam nikita chouhan  a  passionate full stack developer from India</h4>
