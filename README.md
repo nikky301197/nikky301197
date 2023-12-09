@@ -11,19 +11,10 @@ available at [https://github.com/nikky301197](https://github.com/nikky301197) -
 experiences
 [https://drive.google.com/file/d/1s1fP99JubdkBLzwpfyBgLwQ35L5PlPHL/view?usp=sharing](https://drive.google.com/file/d/1s1fP99JubdkBLzwpfyBgLwQ35L5PlPHL/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/nikita chouhan" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="nikita chouhan"
-      height="30"
-      width="40"
-  /></a>
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img
