@@ -1,7 +1,8 @@
-<img src="https://github.com/nikky301197/nikky301197/blob/640b08b3e80306a375e67c13e7310b7120727ff1/github-header-image%20(2).png" width="700" height="200"/>
-<h1 align="center">Hi 👋, I'm Nikita chouhan</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<img src="https://github.com/nikky301197/nikky301197/blob/fde78303e7266a2f3181c79f25ffa83a7c669ad9/github-header-image%20(3).png" width="700" height="200"/>
 
+<h1 align="center">👋 Welcome to My Profile!</h1>
+<br>
+<h2 align="center">💫 About Me:</h2>
 - 🔭 I’m currently working on **Mico hospital**
 - 🌱 I’m currently learning
 **ReactJs , Bootstrap , JavaScript ,Html, CSS ,**
@@ -15,7 +16,7 @@ experiences
 
 
 <h3 align="left">Languages and Tools:</h3>
-<br> 
+ 
 <hr/>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
