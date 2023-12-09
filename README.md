@@ -12,7 +12,7 @@
 
 
 <!-- Fun Fact Section -->
-<h2 align="center">⚡ Fun Fact:</h2>
+<h4 align="center"> Fun Fact </h4>
 <p align="center">I enjoy exploring new technologies and learning about the latest developments in the tech industry. I believe that continuous learning is the key to personal and professional growth.</p>
 
 
