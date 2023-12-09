@@ -1,3 +1,4 @@
+<img src="https://drive.google.com/file/d/1wzcT9EiBIauPwkyi_5BQ5qUaR3MDGV3K/view?usp=drive_link" width="551" height="300"/>
 <h1 align="center">Hi 👋, I'm Nikita chouhan</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
