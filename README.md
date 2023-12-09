@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning
 **ReactJs , Bootstrap , JavaScript ,Html, CSS ,**
 - 👨‍💻 All of my projects are
-available at [https://github.com/nikky301197](https://github.com/nikky301197) -
-📫 How to reach me **1997nikita.chouhan@gmail.com** 
+available at [https://github.com/nikky301197](https://github.com/nikky301197)
+-📫 How to reach me **1997nikita.chouhan@gmail.com** 
 - 📄 Know about my
 experiences
 [https://drive.google.com/file/d/1s1fP99JubdkBLzwpfyBgLwQ35L5PlPHL/view?usp=sharing](https://drive.google.com/file/d/1s1fP99JubdkBLzwpfyBgLwQ35L5PlPHL/view?usp=sharing)
@@ -14,7 +14,8 @@ experiences
 
 
 <h3 align="left">Languages and Tools:</h3>
-<br>
+<br> 
+<hr/>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img
