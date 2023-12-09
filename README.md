@@ -1,7 +1,7 @@
 <img src="https://github.com/nikky301197/nikky301197/blob/fde78303e7266a2f3181c79f25ffa83a7c669ad9/github-header-image%20(3).png" width="700" height="200"/>
 
-<h1 align="center">Hi 👋, I'm Nikita chouhan</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h5 align="center">Welcome to my profile !</h5>
+<h6 align="center">Hi ! iam nikita chouhan  a  passionate full stack developer from India</h6>
 
 - 🔭 I’m currently working on **Mico hospital**
 - 🌱 I’m currently learning
