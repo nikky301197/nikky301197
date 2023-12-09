@@ -11,6 +11,10 @@
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1s1fP99JubdkBLzwpfyBgLwQ35L5PlPHL/view?usp=sharing](https://drive.google.com/file/d/1s1fP99JubdkBLzwpfyBgLwQ35L5PlPHL/view?usp=sharing)**
 
 
+<!-- Fun Fact Section -->
+<h2 align="center">⚡ Fun Fact:</h2>
+<p align="center">I enjoy exploring new technologies and learning about the latest developments in the tech industry. I believe that continuous learning is the key to personal and professional growth.</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
  
