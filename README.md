@@ -1,4 +1,5 @@
-<h3 align="center">A passionate developer from India</h3>
+
+<h3 align="center" color="blue" >A passionate developer from India</h3>
  <h5 align="center"> - 👋 Hi, I’m @nikky301197 </h5>
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
