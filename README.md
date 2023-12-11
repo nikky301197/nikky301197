@@ -1,7 +1,8 @@
 <img src="https://github.com/nikky301197/nikky301197/blob/5d9536fcc4e8c3093466c277a62626d68c57c48a/github-header-image%20(4).png" width="1000" height="200"/>
 
 <h2 align="center">⚡Welcome to my profile⚡</h2>
-<h3 align="center">Hi ! Iam nikita chouhan a passionate full stack developer from India🚀 I enjoy exploring new technologies💻 and learning about the latest developments in the tech industry. I believe that continuous learning is the key to personal and professional growth📈</h3>
+<h4 align="center">Hi ! Iam nikita chouhan a passionate full stack developer from India🚀 I enjoy exploring new technologies💻 and learning about the latest developments in the tech industry. I believe that continuous learning is the key to personal and professional growth📈</h4>
+<br>
 
 - 💻 I’m currently working on **Mico hospital**
 - 🌱 I’m currently learning
