@@ -13,7 +13,7 @@
 
 
 ### 🧰 Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,nodejs,python,aws,firebase,mysql,mongodb,postgresql,github,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,ts,react,nodejs,python,aws,firebase,mysql,mongodb,postgresql,github,bash)](https://skillicons.dev)
 
 <h3 align="left">Languages and Tools:</h3>
  
