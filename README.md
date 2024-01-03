@@ -15,5 +15,5 @@
 ### 🧰 Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,react,bootstrap,js,html,css,github,git,azure)](https://skillicons.dev)
 
-<h3 align="left">Languages and Tools:</h3>
+
  
