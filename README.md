@@ -12,7 +12,8 @@
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1s1fP99JubdkBLzwpfyBgLwQ35L5PlPHL/view?usp=sharing](https://drive.google.com/file/d/1s1fP99JubdkBLzwpfyBgLwQ35L5PlPHL/view?usp=sharing)**
 
 
-
+### 🧰 Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,nodejs,python,aws,firebase,mysql,mongodb,postgresql,github,bash)](https://skillicons.dev)
 
 <h3 align="left">Languages and Tools:</h3>
  
